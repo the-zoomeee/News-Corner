@@ -4,6 +4,7 @@ Welcome to **News Corner**, your go-to application for the latest news updates f
 
 ## Table of Contents
 - [Features](#features)
+- [Usage](#usage)
 - [Demo](#Demo)
 - [Source Code](#Source-Code)
 - [Website](#Website)
@@ -12,6 +13,10 @@ Welcome to **News Corner**, your go-to application for the latest news updates f
 - **Real-Time Updates**: Stay informed with the latest news articles.
 - **Category Browsing**: Explore news by categories.
 - **Responsive Design**: Enjoy a seamless experience across all devices.
+
+## Usage
+- Browse through the latest news articles.
+- Use the category filter to find news on specific topics.
 
 ## Demo
 #### Home
